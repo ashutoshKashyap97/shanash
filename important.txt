@@ -1,0 +1,3 @@
+Nuget Console:
+
+add-migration AddCategoryToDatabase

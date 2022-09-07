@@ -1,0 +1,34 @@
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.csproj.AssemblyReference.cache
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.AssemblyInfoInputs.cache
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.AssemblyInfo.cs
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.csproj.CoreCompileInputs.cache
+E:\Final Year Project\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.deps.json
+E:\Final Year Project\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.runtimeconfig.json
+E:\Final Year Project\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.dll
+E:\Final Year Project\Shanash\Shanash.DataAccess\bin\Debug\net6.0\ref\Shanash.DataAccess.dll
+E:\Final Year Project\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.pdb
+E:\Final Year Project\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.Models.dll
+E:\Final Year Project\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.Models.pdb
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.csproj.CopyComplete
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.dll
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\ref\Shanash.DataAccess.dll
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.pdb
+E:\Final Year Project\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.genruntimeconfig.cache
+D:\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.deps.json
+D:\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.runtimeconfig.json
+D:\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.dll
+D:\Shanash\Shanash.DataAccess\bin\Debug\net6.0\ref\Shanash.DataAccess.dll
+D:\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.DataAccess.pdb
+D:\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.Models.dll
+D:\Shanash\Shanash.DataAccess\bin\Debug\net6.0\Shanash.Models.pdb
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.csproj.AssemblyReference.cache
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.AssemblyInfoInputs.cache
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.AssemblyInfo.cs
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.csproj.CoreCompileInputs.cache
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.csproj.CopyComplete
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.dll
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\ref\Shanash.DataAccess.dll
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.pdb
+D:\Shanash\Shanash.DataAccess\obj\Debug\net6.0\Shanash.DataAccess.genruntimeconfig.cache

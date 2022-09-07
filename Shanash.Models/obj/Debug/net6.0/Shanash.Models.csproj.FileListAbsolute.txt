@@ -1,0 +1,24 @@
+E:\Final Year Project\Shanash\Shanash.Models\bin\Debug\net6.0\Shanash.Models.deps.json
+E:\Final Year Project\Shanash\Shanash.Models\bin\Debug\net6.0\Shanash.Models.dll
+E:\Final Year Project\Shanash\Shanash.Models\bin\Debug\net6.0\ref\Shanash.Models.dll
+E:\Final Year Project\Shanash\Shanash.Models\bin\Debug\net6.0\Shanash.Models.pdb
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.csproj.AssemblyReference.cache
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.AssemblyInfoInputs.cache
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.AssemblyInfo.cs
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.csproj.CoreCompileInputs.cache
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.dll
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\ref\Shanash.Models.dll
+E:\Final Year Project\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.pdb
+D:\Shanash\Shanash.Models\bin\Debug\net6.0\Shanash.Models.deps.json
+D:\Shanash\Shanash.Models\bin\Debug\net6.0\Shanash.Models.dll
+D:\Shanash\Shanash.Models\bin\Debug\net6.0\ref\Shanash.Models.dll
+D:\Shanash\Shanash.Models\bin\Debug\net6.0\Shanash.Models.pdb
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.csproj.AssemblyReference.cache
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.AssemblyInfoInputs.cache
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.AssemblyInfo.cs
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.csproj.CoreCompileInputs.cache
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.dll
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\ref\Shanash.Models.dll
+D:\Shanash\Shanash.Models\obj\Debug\net6.0\Shanash.Models.pdb

@@ -1,0 +1,24 @@
+E:\Final Year Project\Shanash\Shanash.Utility\bin\Debug\net6.0\Shanash.Utility.deps.json
+E:\Final Year Project\Shanash\Shanash.Utility\bin\Debug\net6.0\Shanash.Utility.dll
+E:\Final Year Project\Shanash\Shanash.Utility\bin\Debug\net6.0\ref\Shanash.Utility.dll
+E:\Final Year Project\Shanash\Shanash.Utility\bin\Debug\net6.0\Shanash.Utility.pdb
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.AssemblyInfoInputs.cache
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.AssemblyInfo.cs
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.csproj.CoreCompileInputs.cache
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.dll
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\ref\Shanash.Utility.dll
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.pdb
+E:\Final Year Project\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.csproj.AssemblyReference.cache
+D:\Shanash\Shanash.Utility\bin\Debug\net6.0\Shanash.Utility.deps.json
+D:\Shanash\Shanash.Utility\bin\Debug\net6.0\Shanash.Utility.dll
+D:\Shanash\Shanash.Utility\bin\Debug\net6.0\ref\Shanash.Utility.dll
+D:\Shanash\Shanash.Utility\bin\Debug\net6.0\Shanash.Utility.pdb
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.csproj.AssemblyReference.cache
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.AssemblyInfoInputs.cache
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.AssemblyInfo.cs
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.csproj.CoreCompileInputs.cache
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.dll
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\ref\Shanash.Utility.dll
+D:\Shanash\Shanash.Utility\obj\Debug\net6.0\Shanash.Utility.pdb
